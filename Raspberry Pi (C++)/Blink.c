@@ -4,7 +4,7 @@
  *  Created on: 27 dec 2014
  *      Author: Rickard
  */
-#include <wiringPi>
+#include <wiringPi.h>
 
 void main(){
 
